@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on Flutter and Django
   
 - 📫 How to reach me abdillahissa866@gmail.com  
-
+- 💥 fun fact: ** Copy-and-Paste was programmed by programmers for programmers actually **
 **Connect with me:**
 
 <a href="https://linkedin.com/in/abdillah-issa-7410402ba">
