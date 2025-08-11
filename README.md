@@ -42,7 +42,10 @@
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Linux" width="30" height="30">
 </a>
 <a href="https://www.python.org">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8c8360ec-7bd4-4e49-8f73-4c54a90a0560" />
+    <img width="50" height="60" alt="image" src="https://github.com/user-attachments/assets/8c8360ec-7bd4-4e49-8f73-4c54a90a0560" />
+</a>
+<a href="https://www.python.org">
+    <img width="50" height="40" alt="image" src="https://github.com/user-attachments/assets/a6c86af6-bf1e-42e9-9527-669be5aa47bb" />
 </a>
 
 <!---
