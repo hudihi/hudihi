@@ -8,43 +8,10 @@ Mobile developer (Flutter) · Backend engineer (Spring Boot) · AI & Geospatial 
 
 ### About me
 
-- 🔭 Working on **Flutter apps**, **Spring Boot** backends, and **AI/ML** projects.  
-- 🌍 Applying **LLMs** to **geospatial / remote sensing** problems.  
-- 🏢 Collaborating with **@Nebo-Techn** and **@udsm-3d-robotics-studio**.  
-- 📫 Reach me at **abdillahissa866@gmail.com**.  
-
----
-
-### What I’m focusing on in 2026
-
-- Production‑grade LLM pipelines (RAG, tools, observability).  
-- Geospatial intelligence: remote‑sensing analytics and land‑intelligence modules.  
-- Clean DevOps: Docker, CI/CD, infra for my projects (see pinned repos).  
-
----
-
-### Tech stack
-
-**Languages & Frameworks**
-
-- Flutter · Dart  
-- Java · Spring Boot  
-- Python (AI/ML, data pipelines)  
-
-**Tools & Platforms**
-
-- Git · GitHub · Linux  
-- Docker · CI/CD  
-- Geospatial tooling (GDAL, raster/vector processing, APIs)  
-
----
-
-### Selected projects
-
-- 🛒 **hardware-hub-simple / hardware-hub-backend** – Simple hardware shop platform (frontend + Spring Boot backend).  
-- 🧠 **llm-engineering** – Experiments with LLM tooling, agents, and RAG for production use.  
-- 📊 **Credit-Scoring-Dashboard / Credit-Scoring-Prediction** – End‑to‑end credit scoring with ML and analytics.  
-- 🎬 **flutter-movie-app** – Flutter app demonstrating clean architecture and modern UI.  
+- 🔭 I design and build **production-ready mobile apps, backend services, and AI/ML solutions** with a focus on reliability and maintainability. [page:4]
+- 🌍 I work with **LLM-powered and geospatial systems**, using remote sensing and spatial data to solve real-world problems. [page:4]
+- 🧰 My core stack includes **Flutter, Spring Boot, Python, Docker, and modern DevOps practices**; I pick tools based on the problem, not the hype. [page:4]
+- 📫 Reach me at **abdillahissa866@gmail.com** for collaborations, freelance work, or technical discussions. [page:4]
 
 ---
 
