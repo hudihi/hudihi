@@ -1,23 +1,35 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Abdillah Issa</h1>
-<h3 align="center">
-Mobile developer (Flutter) · Backend engineer (Spring Boot) · AI & Geospatial practitioner
-</h3>
+# Hi, I'm Abdillah 👋
+
+💻 Software developer focused on **AI systems, backend services, and mobile applications**. [page:4]  
+🌍 Exploring **LLMs, geospatial intelligence, and real-world problem solving**. [page:4]
 
 ---
 
-### About me
+## ⚙️ Tech Stack
 
-- 🔭 I design and build **production-ready mobile apps, backend services, and AI/ML solutions** with a focus on reliability and maintainability.
-- 🌍 I work with **LLM-powered and geospatial systems**, using remote sensing and spatial data to solve real-world problems.
-- 🧰 My core stack includes **Flutter, Spring Boot, Python, Docker, and modern DevOps practices**; I pick tools based on the problem, not the hype. [page:4]
-- 📫 Reach me at **abdillahissa866@gmail.com** for collaborations, freelance work, or technical discussions.
+- **Languages:** Python, Dart, Java, SQL [page:4]  
+- **Frameworks & Libraries:** Flutter, Spring Boot, FastAPI, TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers [page:4]  
+- **Tools & Platforms:** Docker, Git, Linux, Google Earth Engine, AWS, GCP, PostgreSQL/PostGIS [page:4]  
+- **Interests:** AI/ML, Geospatial systems, Backend architecture, DevOps [page:4]
 
 ---
 
-### Connect
+## 🚀 Current Focus
 
-- 💼 LinkedIn: [abdillah-issa-7410402ba](https://linkedin.com/in/abdillah-issa-7410402ba)
+- Building **AI-powered applications** [page:4]  
+- Developing **scalable backend systems** [page:4]  
+- Working with **geospatial and remote sensing data** [page:4]  
+- Experimenting with **LLMs and machine learning pipelines** [page:4]
+
+---
+
+## 📫 Contact
+
+- Email: [abdillahissa866@gmail.com](mailto:abdillahissa866@gmail.com) 
+
+⭐ Always learning and building useful systems. [page:4]
+
 
 
 <!---
