@@ -1,11 +1,8 @@
-# Hi👋,I'm Abdillah Issa, Mobile and Backend developer
+# Hi 👋, I’m Abdillah Issa – mobile developer with Flutter, backend engineer with Spring Boot, and AI practitioner working on LLMs and geospatial intelligence.
 
-
-- 🔭 I’m currently working on mobile applications and backend - RESTFUL API:
+- 🔭 I work on Flutter apps, Spring Boot backends, and AI/ML projects.
   
-- 🌱 I’m currently learning JavaScript stack
-  
-- 💞️ I’m looking to collaborate on Flutter and Django
+- 🌱  I’m deepening my skills in LLMs and geospatial/remote sensing.
   
 - 📫 How to reach me abdillahissa866@gmail.com  
 - 💥 fun fact: Copy-and-Paste was programmed by programmers for programmers actually
