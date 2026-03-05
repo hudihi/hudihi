@@ -5,12 +5,11 @@
 - 🌱  I’m deepening my skills in LLMs and geospatial/remote sensing.
   
 - 📫 How to reach me abdillahissa866@gmail.com  
-- 💥 fun fact: Copy-and-Paste was programmed by programmers for programmers actually
   
 **Connect with me:**
 
 <a href="https://linkedin.com/in/abdillah-issa-7410402ba">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" width="30" height="30">
+     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" width="30" height="30" />
 </a>
 <br />
 
