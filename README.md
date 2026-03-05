@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Hi, I'm Abdillah 👋</h1>
-</p>
+<h1 align="center">Hi, I'm Abdillah 👋</h1>
 
 💻 Building **AI systems, backend services & mobile apps**  
 🌍 Exploring **LLMs, geospatial intelligence & real-world solutions**  
