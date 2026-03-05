@@ -8,10 +8,10 @@ Mobile developer (Flutter) · Backend engineer (Spring Boot) · AI & Geospatial 
 
 ### About me
 
-- 🔭 I design and build **production-ready mobile apps, backend services, and AI/ML solutions** with a focus on reliability and maintainability. [page:4]
-- 🌍 I work with **LLM-powered and geospatial systems**, using remote sensing and spatial data to solve real-world problems. [page:4]
+- 🔭 I design and build **production-ready mobile apps, backend services, and AI/ML solutions** with a focus on reliability and maintainability.
+- 🌍 I work with **LLM-powered and geospatial systems**, using remote sensing and spatial data to solve real-world problems.
 - 🧰 My core stack includes **Flutter, Spring Boot, Python, Docker, and modern DevOps practices**; I pick tools based on the problem, not the hype. [page:4]
-- 📫 Reach me at **abdillahissa866@gmail.com** for collaborations, freelance work, or technical discussions. [page:4]
+- 📫 Reach me at **abdillahissa866@gmail.com** for collaborations, freelance work, or technical discussions.
 
 ---
 
